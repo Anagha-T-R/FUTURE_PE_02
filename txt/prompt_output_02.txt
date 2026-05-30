@@ -1,0 +1,10 @@
+Brand Voice Prompt
+==================
+
+PROMPT
+------
+Define a brand voice for a D2C skincare product that is warm, practical, honest, and conversion-focused without medical claims.
+
+OUTPUT
+------
+The voice should sound friendly, calm, realistic, benefit-led, and suitable for creators speaking naturally on camera.

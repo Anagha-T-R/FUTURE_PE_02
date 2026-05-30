@@ -1,0 +1,10 @@
+Business Context Builder
+========================
+
+PROMPT
+------
+Create a marketing brief for GlowNest Barrier Repair Gel Cream, including audience pain points, objections, emotional triggers, benefits, and UGC content angles.
+
+OUTPUT
+------
+Audience pain points include tight skin after washing, greasy moisturizer concerns, sensitivity, dry patches under sunscreen, and desire for simple routines.

@@ -1,0 +1,10 @@
+Content Testing Plan
+====================
+
+PROMPT
+------
+Build a testing plan for hooks, CTA styles, platform performance, and visual proof angles.
+
+OUTPUT
+------
+The plan compares hook styles, shop vs save CTAs, Instagram vs YouTube Shorts, and texture close-up vs routine demo.

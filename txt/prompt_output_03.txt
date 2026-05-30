@@ -1,0 +1,10 @@
+Hook Generator
+==============
+
+PROMPT
+------
+Generate short-form UGC ad hooks under 14 words using pain point, curiosity, routine, mistake, and contrast angles.
+
+OUTPUT
+------
+Hooks include 'Sensitive skin people, this one is for us' and 'If moisturizer always feels sticky, try this.'

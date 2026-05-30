@@ -1,0 +1,10 @@
+Visual Direction Prompt
+=======================
+
+PROMPT
+------
+Create filming directions, on-screen text, and product demonstration instructions for each UGC ad.
+
+OUTPUT
+------
+Visuals include texture close-ups, cleanser-to-moisturizer-to-SPF sequence, and creator lifestyle shots.

@@ -1,0 +1,10 @@
+Facebook Ad Prompt
+==================
+
+PROMPT
+------
+Write a 35-second Facebook video ad script focused on dry patches under sunscreen and lightweight hydration.
+
+OUTPUT
+------
+The output explains the problem clearly, shows product use before SPF, and ends with 'Shop GlowNest Barrier Repair Gel Cream today.'

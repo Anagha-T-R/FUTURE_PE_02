@@ -1,0 +1,10 @@
+CTA Testing Prompt
+==================
+
+PROMPT
+------
+Create CTA variations and explain which conversion action each CTA supports.
+
+OUTPUT
+------
+CTA options support purchase intent, saves, routine adoption, and product-page visits.

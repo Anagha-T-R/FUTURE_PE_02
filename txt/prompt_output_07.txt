@@ -1,0 +1,10 @@
+Caption Generator
+=================
+
+PROMPT
+------
+Create Instagram, Facebook, and YouTube captions for the UGC scripts, plus CTA options and hashtags.
+
+OUTPUT
+------
+Captions are platform-specific, benefit-led, and include CTA options such as 'Shop GlowNest today' and 'Save this skincare routine.'

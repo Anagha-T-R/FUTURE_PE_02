@@ -1,0 +1,10 @@
+YouTube Shorts Prompt
+=====================
+
+PROMPT
+------
+Write a fast 25-second YouTube Shorts script for people who dislike sticky moisturizers.
+
+OUTPUT
+------
+The output uses fast pacing, visual contrast, and a save-worthy morning routine CTA.

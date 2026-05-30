@@ -1,0 +1,10 @@
+Instagram Script Prompt
+=======================
+
+PROMPT
+------
+Write a 30-second Instagram Reel script for sensitive skin users using hook, problem, product intro, benefit, visual demo, and CTA.
+
+OUTPUT
+------
+The script uses a creator-to-camera style and presents GlowNest as a simple morning routine step before sunscreen.
