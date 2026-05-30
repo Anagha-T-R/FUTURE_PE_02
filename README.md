@@ -13,17 +13,16 @@
 | Repository | FUTURE_PE_02 |
 | Task | AI Content Marketing using UGC Ads |
 | Product | GlowNest Barrier Repair Gel Cream |
-| Tools Used | ChatGPT / Claude / Gemini style prompts, Markdown, DOCX, GitHub |
+| CIN ID | FIT/MAY26/PE2660 |
+| Tools Used | Claude AI (claude.ai), Markdown, DOCX, GitHub |
 
 ## Project Overview
 
 This project contains a complete AI-generated UGC Ad Content Pack for a realistic D2C skincare product. The content pack includes hooks, scripts, captions, CTAs, visual directions, platform adaptations, testing ideas, prompt screenshots, output screenshots, TXT files, and a DOCX report.
 
-## Website / Demo Link
+## Live Website / Demo Link
 
-[Open the project demo](demo/index.html)
-
-Replace this local demo link with a GitHub Pages, live website, or video demo link after deployment.
+[Open the live project demo](https://anagha-t-r.github.io/FUTURE_PE_02/)
 
 ## Product Details
 
@@ -67,6 +66,9 @@ FUTURE_PE_02/
 ├── README.md
 ├── demo/
 │   └── index.html
+├── .github/
+│   └── workflows/
+│       └── pages.yml
 ├── documents/
 │   └── FUTURE_PE_02_submission_report.docx
 ├── outputs/
@@ -97,7 +99,7 @@ FUTURE_PE_02/
 - Final UGC ad content pack
 - DOCX submission report
 - README file
-- Demo HTML link
+- Live GitHub Pages demo link
 
 ## Submission Checklist
 
@@ -108,6 +110,6 @@ FUTURE_PE_02/
 - [x] Prompt screenshots added
 - [x] Respective output screenshots added
 - [x] DOCX report added
-- [x] Demo link added
+- [x] Live demo link added
 
 This project was created as part of the Future Interns Prompt Engineering Internship Program. Product details are fictional and created for learning purposes.
